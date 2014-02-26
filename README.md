@@ -1,17 +1,11 @@
-=== 4stats ===
-Contributors: 4stats
-Tags: analytics, statistics, stats, tracking, widget, views, visits, counter
-Requires at least: 3.3
-Tested up to: 3.5
-Stable tag: trunk
+# 4stats
+
+Website analytics from 4stats including many features. Displays a widget, a complete statistic page and adds the tracking code to your site.
 
 
-Website stats from 4stats including many features. Displays a widget, a complete statistic page and adds the tracking code to your site.
+## Description
 
-
-== Description ==
-
-= Real time webstats =
+### Real time webstats
 
 Use the popular 4stats website stats on your wordpress blog. 
 Just enter your project id and the api key and the 4stats tracking code will be automaticly be added to your site. Now you can watch your stats on the wordpress dashboard and on the 4stats plugin statistics page.
@@ -20,7 +14,7 @@ You have to be registered with http://www.4stats.net/ to use this plugin.
 
 
 
-= Features =
+### Features
 
 - Ads the 4stats Tracking Code to your blog
 - You can choose the Hidden Counter Option
@@ -28,7 +22,7 @@ You have to be registered with http://www.4stats.net/ to use this plugin.
 - 4stats Dashboard page 
 
 
-= 4stats Dashboard page  =
+###  4stats Dashboard page
 
 - Todays performance graph
 - Statictic numbers (Visits, PI's and so on) for Today, Yesterday, This month, Last month, This year and Total
@@ -44,7 +38,7 @@ You have to be registered with http://www.4stats.net/ to use this plugin.
 
 
 
-== Installation ==
+### Installation
 
 The automatic plugin installer should work for most people. Manual installation is easy and takes fewer than five minutes.
 
@@ -56,26 +50,26 @@ The automatic plugin installer should work for most people. Manual installation 
 
 
 
-== Changelog ==
+### Changelog
 
-= 2.0.4 =
+#### 2.0.4
 * Changed links to english language version
 
-= 2.0.3 =
+#### 2.0.3
 * Bugfix http://wordpress.org/support/topic/4stats-update-202
 
-= 2.0.2 =
+#### 2.0.2
 * Disable tracking code function
 
-= 2.0.0 =
+#### 2.0.0
 * Wordpress dashboard and statistics page
 
-= 1.1.0 =
+#### 1.1.0
 * Hidden counter option
 
 
 
-== Screenshots ==
+### Screenshots
 
 1. 4stats Dashboard with more statictic data
 2. 4stats settings
